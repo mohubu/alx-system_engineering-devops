@@ -15,4 +15,5 @@ At the end of this module, is should be able to explain:
 | Filename | Description |
 |-----------------|---------------------|
 | `0-current_working_directory` | Prints the absolute path name of the current working directory. |
+| `1-listit` | Displays the contents of your current directory |
 | `
