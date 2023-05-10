@@ -20,4 +20,5 @@ At the end of this module, is should be able to explain:
 | `3-listfiles` | Displays current directory contents in a long format |
 | `4-listmorefiles` | Display current directory contents, including hidden files |
 | `5-listfilesdigitonly` | Display current directory contets in longformat, w ith user and group IDs displayed numerically and hidden files |
+| `6-firstdirectory` | A script that creates a directory named `my_first_directory` in the `/tmp/` directory |
 |
