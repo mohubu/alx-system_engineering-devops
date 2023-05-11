@@ -18,4 +18,5 @@ This module expalains how shell permissons work.
 | `8-James_Bond` | A script that sets the permission to the file `hello` to no permissions to the owner and group, but gives other users all the permissions |
 | `9-John_Doe` | A script that sets the mode of the file `hello` to this: `-rwxr-x-wx`. |
 | `10-mirror_permissions` | A script that sets the mode of the file `hello` the same as `olleh`'s mode. |
+| `11-directories_permissions` | A script that adds execute permissionto all subdirectories of the **Current directory** for the owner, the group owner and all other users. |
 
