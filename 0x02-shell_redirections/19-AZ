@@ -1,0 +1,2 @@
+#!/bin/bash
+read -p "Write some word" input; echo "$input" | tr 'Ac' 'Ze'
