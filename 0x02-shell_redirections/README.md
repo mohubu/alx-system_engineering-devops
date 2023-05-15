@@ -22,3 +22,4 @@ Shell, I/O Redirections, and Filters are essential concepts in the Unix/Linux co
 | `11-directories` | A script that counts the number of directories and sub-directories in the current directory. |
 | `12-newest_files` | A script that displays the 10 newestfiles in the current directory. |
 | `13-unique` | A script that takes a list of words as input and prints only words that appear exactly once. |
+| `14-findthatword` | A script that displays lines containing the pattern `"root"` from the file ` /etc/passwd`. |
