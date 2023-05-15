@@ -26,3 +26,4 @@ Shell, I/O Redirections, and Filters are essential concepts in the Unix/Linux co
 | `15-countthatword` | A script that displays the number of lines that contain the pattern"bin" in the file `/etc/passwd`. |
 | `16-whatsnext` | A script that displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`. |
 | `17-hidethisword` | A script  that displays the lines in the file `/etc/passwd` that do not contain the pattern "bin". |
+| `18-letteronly` | A script that displays all lines of the file `/etc/ssh/sshd_config` starting with a letter. |
