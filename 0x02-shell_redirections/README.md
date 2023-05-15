@@ -14,3 +14,4 @@ Shell, I/O Redirections, and Filters are essential concepts in the Unix/Linux co
 | `3-twofiles` | A script that displays the content of `/etc/passwd` and `/etc/hosts`. |
 | `4-lastlines` | A script that displays 10 lines of `/etc/passwd`. |
 | `5-firstlines` | A script that displays the first 10 lines of `/etc/passwd`. |
+| `6-third_line` | A script that displays the third line of the fule `iacta`. |
