@@ -23,3 +23,5 @@ Shell, I/O Redirections, and Filters are essential concepts in the Unix/Linux co
 | `12-newest_files` | A script that displays the 10 newestfiles in the current directory. |
 | `13-unique` | A script that takes a list of words as input and prints only words that appear exactly once. |
 | `14-findthatword` | A script that displays lines containing the pattern `"root"` from the file ` /etc/passwd`. |
+| `15-countthatword` | A script that displays the number of lines that contain the pattern"bin" in the file `/etc/passwd`. |
+
