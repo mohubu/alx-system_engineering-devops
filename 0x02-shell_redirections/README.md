@@ -25,8 +25,9 @@ Shell, I/O Redirections, and Filters are essential concepts in the Unix/Linux co
 | `14-findthatword` | A script that displays lines containing the pattern `"root"` from the file ` /etc/passwd`. |
 | `15-countthatword` | A script that displays the number of lines that contain the pattern"bin" in the file `/etc/passwd`. |
 | `16-whatsnext` | A script that displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`. |
-| `17-hidethisword` | A script  that displays the lines in the file `/etc/passwd` that do not contain the pattern "bin". |
+| `17-hidethisword` | A script  that di displays all users and their home directories, sorted by users.splays the lines in the file `/etc/passwd` that do not contain the pattern "bin". |
 | `18-letteronly` | A script that displays all lines of the file `/etc/ssh/sshd_config` starting with a letter. |
 | `19-AZ` | A script that replaces all characters `A` and `c` from input to `Z` and `e` respectively. |
 | `20-hiago` | A script that removes all letters `c` and `c` from input. |
 | `21-reverse` | A script that reverse its input. |
+| `22-users_and_homes` | A script that  displays all users and their home directories, sorted by users. |
