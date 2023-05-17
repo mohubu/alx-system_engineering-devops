@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ibase=water; obase=bestchol; $(echo "$WATER" | tr a-z 0-9a-q) + $(echo "$STIR" | tr a-z 0-9a-q)" | bc | tr 0-9a-q a-z
